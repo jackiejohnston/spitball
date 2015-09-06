@@ -1,4 +1,4 @@
-== README
+== Spitball
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
@@ -21,8 +21,10 @@ Things you may want to cover:
 
 * Deployment instructions
 
-* ...
+## Contributing
 
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+1. Fork it
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create new Pull Request
